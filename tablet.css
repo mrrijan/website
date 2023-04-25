@@ -1,0 +1,42 @@
+
+/*Navigation*/
+#navbar{
+    flex-direction: column;
+}
+#navbar ul{
+    margin-left: 19px;
+}
+
+/*mountain section*/
+#idea h3{
+    padding-top:27px;
+    font-size: 1.4rem;;
+}
+#idea h1{
+    font-size: 2rem;
+}
+
+/*Services section*/
+#services{
+    flex-direction: column;
+}
+
+
+/*About section*/
+
+
+
+/*Clients section*/
+
+
+/*Contact section*/
+
+
+
+
+/*Class variable*/
+.btn{
+    height: 31px;
+    padding: 4px;
+    width: 162px;
+}
